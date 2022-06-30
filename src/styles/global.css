@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+:root {
+    --background-color: #f3f5f7;
+}
+
+body {
+    background-color: var(--background-color);
+}
